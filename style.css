@@ -17,12 +17,12 @@ p {
   font-size: 15px;
 }
 
-.crum {
+h2.crum {
   color:firebrick;
   border-style: dotted;
 }
 
-.apple {
+h2.apple {
   color:darkred;
   border-style: dashed;
   
