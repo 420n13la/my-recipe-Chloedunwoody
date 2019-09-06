@@ -19,11 +19,11 @@ p {
 
 h2.crum {
   color:firebrick;
-  border-style: dotted;
+ font-size: 36px;
 }
 
 h2.apple {
   color:darkred;
-  border-style: dashed;
+  font-size: 26px;
   
 }
