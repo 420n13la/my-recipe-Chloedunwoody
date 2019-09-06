@@ -17,13 +17,13 @@ p {
   font-size: 15px;
 }
 
-crum {
+.crum {
   color:firebrick;
-  font-size: 25px;
+  border-style: dotted;
 }
 
-apple {
+.apple {
   color:darkred;
-font-size: 25px;
+  border-style: dashed;
   
 }
