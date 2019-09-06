@@ -5,7 +5,6 @@ body {
 h1 {
   color: maroon;
   text-align: center;
-  font-family:;
 }
 
 h2 {
@@ -19,11 +18,13 @@ p {
 
 h2.crum {
   color:firebrick;
- font-size: 36px;
+ font-size: 24px;
+ border-style:dashed;
 }
 
 h2.apple {
   color:darkred;
   font-size: 26px;
+  border-style:dotted;
   
 }
