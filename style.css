@@ -26,5 +26,19 @@ h2.apple {
   color:darkred;
   font-size: 26px;
   border-style:dotted;
-  
+}
+
+a:link{
+  color: deeppink;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color:blue;
+  text-decoration:underline;
+}
+
+a:visited{
+  color:black;
 }
